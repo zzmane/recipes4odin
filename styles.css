@@ -1,0 +1,17 @@
+* {
+    background-color: #DEE2FF;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.picture {
+    border-radius: 35%;
+}
+
+#flavour {
+    font-size: 15px;
+}
